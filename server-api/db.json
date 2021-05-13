@@ -1,0 +1,334 @@
+{
+    "pedidos": [
+        {
+            "idPedido": 10210,
+            "descripcion": "Envío de Cajas",
+            "cliente": "Juan Toledo",
+            "pais_ev": "Argentina",
+            "pais_des": "Colombia",
+            "fecha_ev": "2021-01-25",
+            "fecha_Ent": "2021-02-25",
+            "total_pedidos": "$ 10.000,00"
+        },
+        {
+            "idPedido": 10215,
+            "descripcion": "Envío de Corespondencia",
+            "cliente": "Pedro Andradez",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-05-28",
+            "fecha_Ent": "2021-06-25",
+            "total_pedidos": "$ 152,00"
+        },
+        {
+            "idPedido": 10255,
+            "descripcion": "Envío de Electrodomésticos",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Venezuela",
+            "pais_des": "Argentina",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-25",
+            "total_pedidos": "$ 15.205,00"
+        },
+        {
+            "idPedido": 10258,
+            "descripcion": "Envío de Sobres",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "España",
+            "pais_des": "Colombia",
+            "fecha_ev": "2020-01-02",
+            "fecha_Ent": "2020-02-25",
+            "total_pedidos": "$ 158.958,00"
+        },
+        {
+            "idPedido": 10238,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Brasil",
+            "fecha_ev": "2020-01-02",
+            "fecha_Ent": "2020-02-15",
+            "total_pedidos": "$ 158.980,00"
+        },
+        {
+            "idPedido": 10320,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Juan Toledo",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-03-25",
+            "fecha_Ent": "2021-04-28",
+            "total_pedidos": "$ 130.000,00"
+        },
+        {
+            "idPedido": 10235,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Pedro Andradez",
+            "pais_ev": "Brasil",
+            "pais_des": "Argentina",
+            "fecha_ev": "2021-05-28",
+            "fecha_Ent": "2021-06-30",
+            "total_pedidos": "$ 120.000,00"
+        },
+        {
+            "idPedido": 20355,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Argentina",
+            "pais_des": "España",
+            "fecha_ev": "2018-01-02",
+            "fecha_Ent": "2018-02-25",
+            "total_pedidos": "158.980,00"
+        },
+        {
+            "idPedido": 21258,
+            "descripcion": "Envìo de Equipos Satelitales",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-10",
+            "total_pedidos": "$ 15.895,00"
+        },
+        {
+            "idPedido": 20938,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Rusia",
+            "fecha_ev": "2019-01-02",
+            "fecha_Ent": "2019-02-02",
+            "total_pedidos": "$ 158.908,00"
+        },
+        {
+            "idPedido": 20355,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Argentina",
+            "pais_des": "España",
+            "fecha_ev": "2018-01-02",
+            "fecha_Ent": "2018-02-25",
+            "total_pedidos": "158.980,00"
+        },
+        {
+            "idPedido": 21258,
+            "descripcion": "Envìo de Equipos Satelitales",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-10",
+            "total_pedidos": "$ 15.895,00"
+        },
+        {
+            "idPedido": 20938,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Rusia",
+            "fecha_ev": "2019-01-02",
+            "fecha_Ent": "2019-02-02",
+            "total_pedidos": "$ 158.908,00"
+        },        {
+            "idPedido": 12210,
+            "descripcion": "Envío de Cajas",
+            "cliente": "Juan Toledo",
+            "pais_ev": "Argentina",
+            "pais_des": "Colombia",
+            "fecha_ev": "2021-01-25",
+            "fecha_Ent": "2021-02-25",
+            "total_pedidos": "$ 10.000,00"
+        },
+        {
+            "idPedido": 12215,
+            "descripcion": "Envío de Corespondencia",
+            "cliente": "Pedro Andradez",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-05-28",
+            "fecha_Ent": "2021-06-25",
+            "total_pedidos": "$ 152,00"
+        },
+        {
+            "idPedido": 12255,
+            "descripcion": "Envío de Electrodomésticos",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Venezuela",
+            "pais_des": "Argentina",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-25",
+            "total_pedidos": "$ 15.205,00"
+        },
+        {
+            "idPedido": 12258,
+            "descripcion": "Envío de Sobres",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "España",
+            "pais_des": "Colombia",
+            "fecha_ev": "2020-01-02",
+            "fecha_Ent": "2020-02-25",
+            "total_pedidos": "$ 158.958,00"
+        },
+        {
+            "idPedido": 12238,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Brasil",
+            "fecha_ev": "2020-01-02",
+            "fecha_Ent": "2020-02-15",
+            "total_pedidos": "$ 158.980,00"
+        },
+        {
+            "idPedido": 12320,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Juan Toledo",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-03-25",
+            "fecha_Ent": "2021-04-28",
+            "total_pedidos": "$ 130.000,00"
+        },
+        {
+            "idPedido": 12235,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Pedro Andradez",
+            "pais_ev": "Brasil",
+            "pais_des": "Argentina",
+            "fecha_ev": "2021-05-28",
+            "fecha_Ent": "2021-06-30",
+            "total_pedidos": "$ 120.000,00"
+        },
+        {
+            "idPedido": 22355,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Argentina",
+            "pais_des": "España",
+            "fecha_ev": "2018-01-02",
+            "fecha_Ent": "2018-02-25",
+            "total_pedidos": "158.980,00"
+        },
+        {
+            "idPedido": 22258,
+            "descripcion": "Envìo de Equipos Satelitales",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-10",
+            "total_pedidos": "$ 15.895,00"
+        },
+        {
+            "idPedido": 23938,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Rusia",
+            "fecha_ev": "2019-01-02",
+            "fecha_Ent": "2019-02-02",
+            "total_pedidos": "$ 158.908,00"
+        },
+        {
+            "idPedido": 23355,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Argentina",
+            "pais_des": "España",
+            "fecha_ev": "2018-01-02",
+            "fecha_Ent": "2018-02-25",
+            "total_pedidos": "158.980,00"
+        },
+        {
+            "idPedido": 23258,
+            "descripcion": "Envìo de Equipos Satelitales",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-10",
+            "total_pedidos": "$ 15.895,00"
+        },
+        {
+            "idPedido": 23938,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Rusia",
+            "fecha_ev": "2019-01-02",
+            "fecha_Ent": "2019-02-02",
+            "total_pedidos": "$ 158.908,00"
+        },
+        {
+            "idPedido": 13235,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Pedro Andradez",
+            "pais_ev": "Brasil",
+            "pais_des": "Argentina",
+            "fecha_ev": "2021-05-28",
+            "fecha_Ent": "2021-06-30",
+            "total_pedidos": "$ 120.000,00"
+        },
+        {
+            "idPedido": 23355,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Argentina",
+            "pais_des": "España",
+            "fecha_ev": "2018-01-02",
+            "fecha_Ent": "2018-02-25",
+            "total_pedidos": "158.980,00"
+        },
+        {
+            "idPedido": 23258,
+            "descripcion": "Envìo de Equipos Satelitales",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-10",
+            "total_pedidos": "$ 15.895,00"
+        },
+        {
+            "idPedido": 24938,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Rusia",
+            "fecha_ev": "2019-01-02",
+            "fecha_Ent": "2019-02-02",
+            "total_pedidos": "$ 158.908,00"
+        },
+        {
+            "idPedido": 24355,
+            "descripcion": "Envío de Automoviles",
+            "cliente": "Jorge Nuñez",
+            "pais_ev": "Argentina",
+            "pais_des": "España",
+            "fecha_ev": "2018-01-02",
+            "fecha_Ent": "2018-02-25",
+            "total_pedidos": "158.980,00"
+        },
+        {
+            "idPedido": 24258,
+            "descripcion": "Envìo de Equipos Satelitales",
+            "cliente": "Jorge Pulido",
+            "pais_ev": "Argentina",
+            "pais_des": "Brasil",
+            "fecha_ev": "2021-01-02",
+            "fecha_Ent": "2021-02-10",
+            "total_pedidos": "$ 15.895,00"
+        },
+        {
+            "idPedido": 24938,
+            "descripcion": "Envío de Maquinas Industriales",
+            "cliente": "Jorge Mariño",
+            "pais_ev": "Colombia",
+            "pais_des": "Rusia",
+            "fecha_ev": "2019-01-02",
+            "fecha_Ent": "2019-02-02",
+            "total_pedidos": "$ 158.908,00"
+        }
+    ]
+
+}
